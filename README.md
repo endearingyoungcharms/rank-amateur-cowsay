@@ -1,3 +1,40 @@
+# cowsay-otter
+![](otter.gif)
+
+## install
+forked from 
+`brew install daniel-nelson-looker/homebrew-cowsay-looker/cowsay`
+
+if you already have cowsay, you may need to unlink them and try installing agian 
+`brew unlink cowsay`
+
+## usage
+`echo 'Why do people use tables when they have perfectly good tummies to eat on? Its not Logical!' | cowsay -f otter`
+```
+ _________________________________________ 
+/ Why do people use tables when they have \
+| perfectly good tummies to eat on! Its   |
+\ not Logical!                            /
+ ----------------------------------------- 
+ 
+\\       
+         .-"""-.
+        /      o\
+       |    o   0).-.
+       |       .-;(_/     .-.
+        \     /  /)).---._|  `\   ,
+         ".  "  /((       `"-./ _/|
+           \  ."  )        .-.;`  /
+            ".             |  `\-"
+              "._        -"    /
+                 ``""--`------`
+
+```
+Or
+
+echo 'Science damn you, Time Child!' | cowsay -f otter
+
+
 # rank-amateur-cowsay
 
 This is cowsay, imported directly from my ancient CVS repository,
