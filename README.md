@@ -2,7 +2,6 @@
 ![](otter.gif)
 
 ## install
-forked from 
 `brew install daniel-nelson-looker/homebrew-cowsay-looker/cowsay`
 
 if you already have cowsay, you may need to unlink them and try installing agian 
