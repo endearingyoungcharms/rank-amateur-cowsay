@@ -2,8 +2,8 @@ class Cowsay < Formula
   desc "Configurable talking characters in ASCII art"
   # Historical homepage: https://web.archive.org/web/20120225123719/www.nog.net/~tony/warez/cowsay.shtml
   # Based on Formula "https://github.com/tnalpgge/rank-amateur-cowsay"
-  url "https://github.com/daniel-nelson-looker/homebrew-cowsay-looker/archive/0.1.1.tar.gz"
-  sha256 "f166fc4b369cf5dbc2cb690ddebac0509a8789177024309012b4bceb819e3319"
+  url "https://github.com/daniel-nelson-looker/homebrew-cowsay-looker/archive/0.1.2.tar.gz"
+  sha256 "6781394cfb28a4cc83bedecc8a92d715f5e34b907d7c8d27a4ba1d7ea16a9dcf"
   
   def install
     system "/bin/sh", "install.sh", prefix
