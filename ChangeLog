@@ -1,3 +1,8 @@
+3.05	25 February 2018
+	- Support requesting a random cow with `-r`
+	- Update `cowenv` to POSIX syntax - use `$()` instead of backticks
+
+
 3.04	24 June 2016
 	- Licensing terms have changed to GPLv3.
 	- Friendlier to being hosted on GitHub.
